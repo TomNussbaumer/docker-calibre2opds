@@ -17,4 +17,6 @@ same as: [Motivation for docker-cops](https://github.com/TomNussbaumer/docker-co
 
 ## Details
 
-... will be filled later ...
+After playing around with calibre2opds for a few hours, I think it is an absolute horrible product. I don't mind it's written in Java (I used Java for over 10 years), but it's internal structure is a mess, it's hard to customize and it's buggy like hell. For example: why bother writing scripts for linux when they don't run without errors? Come on ... that's stupid.
+
+Okay. Let's ask Doctor Google for another advice ;)
